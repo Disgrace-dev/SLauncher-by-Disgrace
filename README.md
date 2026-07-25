@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/Logo.png" alt="SLauncher" width="600">
+  <img src="screenshots/Logo.png" alt="SLauncher" width="500">
 </p>
 
 <p align="center">
