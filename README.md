@@ -40,6 +40,10 @@
   <img src="screenshots/AboutGame.png" alt="Детали игры" width="45%">
   <img src="screenshots/Theme1.png" alt="Тема" width="30%">
   <img src="screenshots/Theme2.png" alt="Тема" width="30%">
+  <img src="screenshots/Theme3.png" alt="Тема" width="30%">
+  <img src="screenshots/Theme4.png" alt="Тема" width="30%">
+  <img src="screenshots/Theme5.png" alt="Тема" width="30%">
+  <img src="screenshots/Theme6.png" alt="Тема" width="30%">
 </p>
 
 ---
