@@ -64,7 +64,7 @@
 
 ## Установка
 
-1. Скачай последнюю версию со **[страницы релизов](https://github.com/Soryyz-Project/SLauncher-by-Soryyz/releases/latest)**
+1. Скачай последнюю версию со **[страницы релизов](https://github.com/Soryyz-Project/SLauncher-by-Disgrace/releases/latest)**
 2. Запусти установщик — всё настроится автоматически
 3. Запускай SLauncher и играй
 
@@ -74,7 +74,7 @@
 
 ## Каталог тем и плагинов
 
-На сайте **[soryyz-project.github.io/slauncher-site](https://soryyz-project.github.io/slauncher-site/)** доступны:
+На сайте **[soryyz-project.github.io/slauncher-site](https://disgrace-dev.github.io/slauncher-site/)** доступны:
 
 - **100+ тем** — скачай CSS и примени в один клик
 - **50+ плагинов** — Lua-скрипты с автоматическими хуками
@@ -117,8 +117,8 @@ npm run tauri build
 ---
 
 <p align="center">
-  <b>SLauncher</b> — проект <a href="https://github.com/Soryyz-Project">Soryyz Project</a><br>
-  <a href="https://github.com/Soryyz-Project/SLauncher-by-Soryyz">GitHub</a> ·
-  <a href="https://soryyz-project.github.io/slauncher-site/">Сайт</a> ·
-  <a href="https://github.com/Soryyz-Project/SLauncher-by-Soryyz/releases">Скачать</a>
+  <b>SLauncher</b> — проект <a href="https://github.com/Disgrace-dev">Disgrace Dev</a><br>
+  <a href="https://github.com/Disgrace-dev/SLauncher-by-Disgrace">GitHub</a> ·
+  <a href="https://Disgrace-dev.github.io/slauncher-site/">Сайт</a> ·
+  <a href="https://github.com/Disgrace-dev/SLauncher-by-Soryyz/releases">Скачать</a>
 </p>
